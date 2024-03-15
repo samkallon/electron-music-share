@@ -1,0 +1,14 @@
+{
+  "name": "mideaflow",
+  "version": "1.0.0",
+  "description": "音频共享项目",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "samkallon",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^29.1.4"
+  }
+}
